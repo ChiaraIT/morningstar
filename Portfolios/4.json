@@ -1,0 +1,35 @@
+{
+	"id": "4",
+	"transactions": [
+		{
+			"securityId": "A",
+			"type": "buy",
+			"date": "2004-11-30",
+			"amount": "10000"
+		},
+		{
+			"securityId": "B",
+			"type": "buy",
+			"date": "2005-05-12",
+			"amount": "1000"
+		},
+		{
+			"securityId": "C",
+			"type": "buy",
+			"date": "2005-06-30",
+			"amount": "1000"
+		},
+		{
+			"securityId": "B",
+			"type": "sell",
+			"date": "2006-08-21",
+			"amount": "500"
+		},
+		{
+			"securityId": "C",
+			"type": "buy",
+			"date": "2006-08-31",
+			"amount": "2000"
+		}
+	]
+}

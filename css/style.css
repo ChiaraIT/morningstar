@@ -1,0 +1,14 @@
+
+p{ font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; }
+.clear {visibility: hidden; display: block; font-size: 0; content: " "; clear: both; height: 0;}
+
+.main-wrapper {width: 100%; height: auto; padding: 0; margin: 0px;}
+.main-wrapper .main-container{ background: #ccc; margin: 20px; padding: 20px;}
+.main-wrapper .main-container h1{ font-size: 20px;}
+.main-wrapper .main-container p{ font-size: 14px;}
+.main-wrapper .main-container p span{color: #19a4b9; font-weight: bold;}
+.main-wrapper .property{width: 140px; height: 50px; float: left;}
+.main-wrapper .value{width: 60px; height: 50px; float: left;}
+.main-wrapper .row .buttons button{margin: 0 5px;}
+
+.label{padding-right: 20px;}
